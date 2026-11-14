@@ -1,3 +1,3 @@
-print("Hello World!!!!!!")
-c = 1
+print("Hello World!")
+c = 67
 print(c)
